@@ -20,6 +20,8 @@ $username = "root";
 $password = "";
 $dbname = "gptc";
 
+
+
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);
 // Check connection
