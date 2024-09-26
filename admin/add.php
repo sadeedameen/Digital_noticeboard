@@ -8,7 +8,6 @@ die();
 <!DOCTYPE html>
 <html>
 <body>
-
 	
 	<head><link rel="stylesheet" type="text/css" href="addstyle.css"></head>
 <h3>Admin Panel</h3>
