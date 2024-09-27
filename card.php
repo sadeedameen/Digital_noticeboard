@@ -34,6 +34,9 @@ xmlhttp.onreadystatechange = function() {
     i++;
 	i = i % myObj.length;
   }
+
+
+  
 };
 xmlhttp.open("GET", "sndNotice.php", true);
 xmlhttp.send();
